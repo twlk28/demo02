@@ -6,3 +6,5 @@
 
 [a] 增加111
 [b] 增加2
+
+[a] git commit --amend
