@@ -4,7 +4,5 @@
 [a] 增加 UI>ScrollView 
 [b] 增加设计模式>列表页 
 
-[a] 增加111
+[a] 增加1
 [b] 增加2
-
-[a] git commit --amend
